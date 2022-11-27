@@ -10,7 +10,7 @@ Mac: `FinalShellGetPass ~/Library/FinalShell/conn/`
 
 Linux: `暂时没环境编译，有空再弄！`
 
-![image](https://user-images.githubusercontent.com/30547741/204143824-96112e3e-8150-40be-b8e1-691bae62fdfd.png)
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/30547741/204144666-01d3c72a-3378-4141-9d15-384702e059af.png">
 
 # 大小说明
 
