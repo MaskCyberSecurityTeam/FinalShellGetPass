@@ -49,6 +49,7 @@ public class Main {
          | |_  | | '_ \\ / _` | \\___ \\| '_ \\ / _ \\ | | |  _ / _ \\ __| |_) / _` / __/ __|
          |  _| | | | | | (_| | |___) | | | |  __/ | | |_| |  __/ |_|  __/ (_| \\__ \\__ \\
          |_|   |_|_| |_|\\__,_|_|____/|_| |_|\\___|_|_|\\____|\\___|\\__|_|   \\__,_|___/___/
+         Team: MaskSec
          Author: RichardTang
          GitHub: https://github.com/MaskCyberSecurityTeam/FinalShellGetPass
         """);
