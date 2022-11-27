@@ -19,3 +19,7 @@ Linux: `暂时没环境编译，有空再弄！`
 # 参考说明
 
 本项目只是将它稍做修改后编译成了可执行文件，方便使用。核心解密代码来自: https://github.com/jas502n/FinalShellDecodePass
+
+# 编译环境
+
+Windows上需要使用Graalvm-21进行编译，不然upx压缩了运行不了。
